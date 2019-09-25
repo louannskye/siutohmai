@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://inoogheidu.angelarui.love/sitemap.xml
